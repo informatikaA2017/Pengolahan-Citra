@@ -1,6 +1,6 @@
 # Pengolahan Citra
 
-Ini adalah Repository informatika 2017, untuk memenuhi tugas Pengolahan Citra
+Ini adalah Repository Informatika 2017, untuk memenuhi tugas Pengolahan Citra
 
 ## Installation OpenCV
 
@@ -17,6 +17,10 @@ Ini adalah Repository informatika 2017, untuk memenuhi tugas Pengolahan Citra
 ```
 
 > *Note :* for testing `import cv2` hit enter , run `print cv2.__version__`
+
+## Example Code and Tutorial
+
+Check [here](https://github.com/informatikaA2017/Pengolahan-Citra/install.md)
 
 ## Belajar-Git
 
