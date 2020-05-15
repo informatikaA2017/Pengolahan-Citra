@@ -30,3 +30,9 @@ Ketik `python <namafile>.py`
 ```
 
 Untuk contoh code bisa dilihat [disini](https://github.com/informatikaA2017/Pengolahan-Citra/blob/master/example.py)
+
+## Cara Push ke Repository
+
+1. Ketik `git add .`
+2. Ketik `git commit -m "commit message"`
+3. Ketik `git push origin <namabranch>`
