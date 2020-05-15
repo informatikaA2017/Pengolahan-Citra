@@ -20,7 +20,7 @@ Ini adalah Repository Informatika 2017, untuk memenuhi tugas Pengolahan Citra
 
 ## Example Code and Tutorial
 
-Check [here](https://github.com/informatikaA2017/Pengolahan-Citra/install.md)
+Check [here](https://github.com/informatikaA2017/Pengolahan-Citra/blob/master/install.md)
 
 ## Belajar-Git
 
