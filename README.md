@@ -18,7 +18,7 @@ Ini adalah Repository Informatika 2017, untuk memenuhi tugas Pengolahan Citra
 
 > *Note :* for testing `import cv2` hit enter , run `print cv2.__version__`
 
-## Example Code and Tutorial
+## How to use
 
 Check [here](https://github.com/informatikaA2017/Pengolahan-Citra/blob/master/install.md)
 
